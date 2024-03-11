@@ -1,0 +1,41 @@
+Tipo de esgotamento sanitário,raca,municipio,uf,habitantes,perc_total
+Fossa rudimentar ou buraco,Amarela,Embu-Guaçu,SP,66.0,0.14505494505494507
+Fossa rudimentar ou buraco,Branca,Embu-Guaçu,SP,7347.0,0.23351237962050664
+Fossa rudimentar ou buraco,Indígena,Embu-Guaçu,SP,40.0,0.43010752688172044
+Fossa rudimentar ou buraco,Parda,Embu-Guaçu,SP,7738.0,0.2686432439938897
+Fossa rudimentar ou buraco,Preta,Embu-Guaçu,SP,1710.0,0.29401650618982117
+Fossa séptica ou fossa filtro ligada à rede,Amarela,Embu-Guaçu,SP,14.0,0.03076923076923077
+Fossa séptica ou fossa filtro ligada à rede,Branca,Embu-Guaçu,SP,880.0,0.027969360836538157
+Fossa séptica ou fossa filtro ligada à rede,Indígena,Embu-Guaçu,SP,0.0,0.0
+Fossa séptica ou fossa filtro ligada à rede,Parda,Embu-Guaçu,SP,529.0,0.01836550479100125
+Fossa séptica ou fossa filtro ligada à rede,Preta,Embu-Guaçu,SP,99.0,0.01702200825309491
+Fossa séptica ou fossa filtro não ligada à rede,Amarela,Embu-Guaçu,SP,136.0,0.2989010989010989
+Fossa séptica ou fossa filtro não ligada à rede,Branca,Embu-Guaçu,SP,8090.0,0.25712741950862916
+Fossa séptica ou fossa filtro não ligada à rede,Indígena,Embu-Guaçu,SP,15.0,0.16129032258064516
+Fossa séptica ou fossa filtro não ligada à rede,Parda,Embu-Guaçu,SP,7703.0,0.2674281349812526
+Fossa séptica ou fossa filtro não ligada à rede,Preta,Embu-Guaçu,SP,1372.0,0.2359009628610729
+Não tinham banheiro nem sanitário,Amarela,Embu-Guaçu,SP,0.0,0.0
+Não tinham banheiro nem sanitário,Branca,Embu-Guaçu,SP,1.0,3.178336458697518e-05
+Não tinham banheiro nem sanitário,Indígena,Embu-Guaçu,SP,0.0,0.0
+Não tinham banheiro nem sanitário,Parda,Embu-Guaçu,SP,5.0,0.00017358700180530482
+Não tinham banheiro nem sanitário,Preta,Embu-Guaçu,SP,0.0,0.0
+Outra forma,Amarela,Embu-Guaçu,SP,1.0,0.002197802197802198
+Outra forma,Branca,Embu-Guaçu,SP,91.0,0.0028922861774147413
+Outra forma,Indígena,Embu-Guaçu,SP,0.0,0.0
+Outra forma,Parda,Embu-Guaçu,SP,91.0,0.0031592834328565476
+Outra forma,Preta,Embu-Guaçu,SP,14.0,0.002407152682255846
+Rede geral ou pluvial,Amarela,Embu-Guaçu,SP,232.0,0.5098901098901099
+Rede geral ou pluvial,Branca,Embu-Guaçu,SP,14306.0,0.45469281378126686
+Rede geral ou pluvial,Indígena,Embu-Guaçu,SP,34.0,0.3655913978494624
+Rede geral ou pluvial,Parda,Embu-Guaçu,SP,11491.0,0.39893764754895156
+Rede geral ou pluvial,Preta,Embu-Guaçu,SP,2405.0,0.4135144429160935
+"Rio, lago, córrego ou mar",Amarela,Embu-Guaçu,SP,1.0,0.002197802197802198
+"Rio, lago, córrego ou mar",Branca,Embu-Guaçu,SP,579.0,0.018402568095858628
+"Rio, lago, córrego ou mar",Indígena,Embu-Guaçu,SP,3.0,0.03225806451612903
+"Rio, lago, córrego ou mar",Parda,Embu-Guaçu,SP,1068.0,0.03707818358561311
+"Rio, lago, córrego ou mar",Preta,Embu-Guaçu,SP,163.0,0.028026134800550207
+Vala,Amarela,Embu-Guaçu,SP,5.0,0.01098901098901099
+Vala,Branca,Embu-Guaçu,SP,169.0,0.005371388615198805
+Vala,Indígena,Embu-Guaçu,SP,1.0,0.010752688172043012
+Vala,Parda,Embu-Guaçu,SP,179.0,0.0062144146646299124
+Vala,Preta,Embu-Guaçu,SP,53.0,0.009112792297111417

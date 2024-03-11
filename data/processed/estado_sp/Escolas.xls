@@ -1,0 +1,135 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Nome_da_Escola</th><th scope="col">Tipo_de_Ensino</th><th scope="col">Municipio</th><th scope="col">Diretoria_de_Ensino</th><th scope="col">Rede_de_Ensino</th><th scope="col">Endereco_Completo</th><th scope="col">Bairro</th><th scope="col">CEP</th><th scope="col">ZONA</th><th scope="col">Telefones</th><th scope="col">Email</th>
+		</tr><tr>
+			<td>ALEXANDRE RODRIGUES NOGUEIRA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA ALEXANDRE RODRIGUES NOGUEIRA, 000501 - RUA</td><td>JARDIM EMILIA</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-1002 / (011) 0004661-8479</td><td>E035403A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ALFREDO SCHUNK ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>AVENIDA DO MOINHO, 000290 - RUA</td><td>CIPO DO MEIO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-2680</td><td>PMEG.277836@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>AMALIA OLIMPIA TROVOES FABENY ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA SETE DE SETEMBRO, 000136</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-8960</td><td>PMEG.106963@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>AMANDA CONSUELO DA CUNHA ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA FILARINA ALVES DE OLIVEIRA, 000075 - RUA</td><td>PARQUE SAO PAULO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-2664</td><td>PMEG.277848@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ANTONIO LUCAS VIEIRA ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA EMILIA JESUS, 000556 - RUA</td><td>JARDIM PROGRESSO</td><td>06900    </td><td>Urbana</td><td>(011) 0004664-6590 / (011) 0096488-5417</td><td>PMEG.288081@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ARCO IRIS EVOLUCAO COLEGIO</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA INACIO MANOEL DOMINGUES, 000148 - RUA</td><td>JARDIM EMILIA</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-6866</td><td>ARCOIRIS_EVOLUCAO@HOTMAIL.COM</td>
+		</tr><tr>
+			<td>BAIRRO BOA VISTA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>ESTRADA MUNICIPAL DO BAYTON, 001545 - RUA</td><td>BOA VISTA</td><td>06900    </td><td>Urbana</td><td>(011) 0004665-1174 / (011) 0004665-1325</td><td>E918672A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>BENEDITO ANTONIO CEZARINO ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>SAO WLADIMIR, 000104</td><td>FLORIDA</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0097402-3250</td><td>PMEG.452476@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>CECILIA CRISTINA DE OLIVEIRA RODRIGUES ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA ANTONIO ADOLFO DA SILVA, 000186 - RUA</td><td>RECREIO REPRESA CIPO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-1190</td><td>PMEG.659137@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>CEL JTO A EE PASCHOAL CARLOS MAGNO</td><td>CEL</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>CORONEL LUIZ TENORIO DE BRITO, 001000</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-1810</td><td>E010285A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>CHACARA FLORIDA II</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA CAMINHO CELIO JOSE PAULO, 000090 - RUA</td><td>CHACARA FLORIDA 2</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2735 / (011) 0004661-8684</td><td>E919007A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>CLARA RODRIGUES ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA CHYOMATSU OTANI, 000115 - RUA</td><td>CHACARA FLORIDA I</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-3897</td><td>PMEG.075164@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>COLEGIO ALPHA</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>CARLOS SGARBI, 000468</td><td>VILA LOURO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0005555-0342</td><td>DIRETORIA@COLEGIOALPHA.COM</td>
+		</tr><tr>
+			<td>DONIZETTI APARECIDO LEITE PROFESSOR</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA JAVINA SCHUNCK, 000037 - RUA</td><td>CIPO GUACU</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-1203 / (011) 0004663-1648</td><td>E914782A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ELTON ROCUMBACK DOS SANTOS EM</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA SEZEFREDO KLEIN DOLL, 000415 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-8791</td><td>PMEG.431278@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ERIKA AZEVEDO VIEIRA REIS ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA WANDERLEI COSTA, 000090 - RUA</td><td>JARDIM SAO PAULO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-3827</td><td>PMEG.236263@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL BAIRRO LAGOA GRANDE</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>LARGO AMANCIO MIGUEL, 0000SN - RUA</td><td>LAGOA GRANDE</td><td>06900    </td><td>Urbana</td><td>(011) 0004664-5076 / (011) 0099684-9003</td><td>PMEG.301413@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL JOAO ALVES</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>AVENIDA SAN DIEGO, 000285 - RUA</td><td>CHACARAS CALIFORNIA</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-5507</td><td>PMEG.285754@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL MAGDA POCHINI CAVINATI</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA ANGEL PARRA COLMENERO, 000203 - RUA</td><td>VILA CRISTINA</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-3781</td><td>PMEG.076405@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL MARIA IGNEZ CONCELLES IRMA INES</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA OLIRIO MOREIRA, 000028 - RUA</td><td>XORORO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-8978</td><td>PMEG.664224@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL O PEQUENO PRINCIPE</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA ANTONIO CUNHA, 000109 - RUA</td><td>MARTINS FONTES</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-2621</td><td>PMEG.284973@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL PAIOL VELHO</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA DA DIVISA, 004755 - RUA</td><td>PAIOL VELHO</td><td>06900    </td><td>Rural</td><td>(011) 0000000-0000 / (011) 0004664-8050</td><td>PMEG.664200@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL PEDRO ANTONIO DE ALMEIDA</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA BRASILIO VIEIRA, 000121 - RUA</td><td>SAPATEIRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-6074</td><td>PMEG.277859@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL PROFESSOR WLADIMIR COSTA</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA ARLETE APARECIDA DE MORAES LOPES, 000220 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-3716</td><td>PMEG.107372@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL SITIO GERASSI</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA ANTONIO GERASSI, 002071 - RUA</td><td>SANTA FE</td><td>06900    </td><td>Rural</td><td>(011) 0000000-0000 / (011) 0004664-6130</td><td>PMEG.428838@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL UNIAO DOS SABIAS</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA SANTIAGO PASCHOAL, 000060 - RUA</td><td>DISTRITO DE CIPO GUACU</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-1721</td><td>PMEG.282424@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESCOLA MUNICIPAL VILA NORGANG</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>SALVINO ANTONIO PIRES, 000691 - RUA</td><td>ALTO DO ITARARE</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0099680-1638</td><td>PMEG.483011@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ESTHER APARECIDA RODRIGUES DOS SANTOS EM</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA TIRADENTES, 000182 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-4440</td><td>PMEG.431266@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>ETELVINA DELFIM SIMOES EM</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA DAVID FARAH, 000045 - RUA</td><td>VILA LOURO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004662-5775</td><td>PMEG.206805@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>EURIDES JOSE AMORIM ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA CECILIA FREIBERGE MAIER, 000500 - RUA</td><td>CHACARA DOS AMIGOS</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-7676</td><td>PMEG.405413@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>FLORIZA JUSTA SCHUNCK ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA PADRE DONIZETE, 0000SN - RUA</td><td>JARDIM CAMPESTRE</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-1664</td><td>PMEG.285742@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>FRANCISCO DE PAULA TEIXEIRA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA SAO DANIEL, 000002 - RUA</td><td>JDPROGRESSO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2700 / (011) 0004661-8478</td><td>E912402A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>HELIO LUIZ DOBROCHINSKI PROF</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>AVENIDA HENRIQUE SCHUNCK, 000033 - RUA</td><td>CIPO</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-2514 / (011) 0004663-2964</td><td>E046536A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>IDALINA MACHADO DAS DORES ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA DE SANTA RITA KM 575  N, 057749 - RUA</td><td>PENTEADO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-7564</td><td>PMEG.643312@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JARDIM CAMPESTRE</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA PADRE DONIZETI, 000765 - RUA</td><td>JARDIM CAMPESTRE</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-2030 / (011) 0004663-2444</td><td>E918830A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JARDIM SILVANIA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>MAXIMILIANO PEREIRA, 000023</td><td>VILA DIRCE</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-1794 / (011) 0004663-2085</td><td>E920058A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JOAO FRIAZA COLEGIO</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA SAO BENEDITO, 000450 - RUA</td><td>VAL FLOR</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004662-1320</td><td>SECRETARIACOLEGIOFRIAZA2016@GMAIL.COM</td>
+		</tr><tr>
+			<td>JOAO GAVA ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA DA PAULISTINHA, 001450 - RUA</td><td>PAULISTINHA</td><td>06900    </td><td>Rural</td><td>(011) 0000000-0000 / (011) 0004661-4006</td><td>PMEG.247236@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JOAO ORTIZ RODRIGUES</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>ESTR DR ANDRE STUCCHI, 001900 - RUA</td><td>FILIPINHO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2475 / (011) 0004661-8476</td><td>E904193A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JOAO PAULO II ESCOLA</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>DOM PEDRO II, 000184</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2418 / (011) 0004661-3547</td><td>SECRETARIA@ESCOLAJOAOPAULO2.COM.BR</td>
+		</tr><tr>
+			<td>JOAO XXIII SERVICO ASSISTENCIAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>PRACA HENRIQUE SCHUNCK, 000017 - RUA</td><td>CIPO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-1399</td><td>&nbsp;</td>
+		</tr><tr>
+			<td>JOAQUIM MENDES FELIZ</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA JOAO ANTONIO OLIVEIRA, 000315 - RUA</td><td>VAL FLOR</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2819 / (011) 0004661-8471</td><td>E049086A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JONAS GOMES DE SOUZA ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA SILVESTRE DANTAS, 000138 - RUA</td><td>CIPO GUACU</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004664-8787</td><td>PMEG.106793@EMBUBUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>JUVENAL COUTINHO ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ESTRADA LUZ DA VIDA, 000120 - RUA</td><td>BAIRRO JUVENAL COUTINHO</td><td>06900    </td><td>Urbana</td><td>(0) 0000000-0000</td><td>PMEG.277861@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>LEONICE DE AQUINO OLIVEIRA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA EGAS DOS SANTOS, 000120 - RUA</td><td>JD SAO PAULO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-1101 / (011) 0004661-8472</td><td>E040708A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>LEVI PEREIRA MARTINS PROFESSOR</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>ESTRADA DO BAYNGTON, 000155 - RUA</td><td>PENTEADO</td><td>06900    </td><td>Urbana</td><td>(011) 0004665-1054 / (011) 0004665-1243</td><td>E914848A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>LORIS NASSIF MATTAR PROFA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>ESTRADA MUNICIPAL BEASILIO VIEIRA, 000450 - RUA</td><td>CONGONHAL</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2460 / (011) 0004661-8469</td><td>E902160A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>LOURDES RASQUINHO ROSCHEL ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA HERMES DA FONSECA, 000058 - RUA</td><td>VILA SCHUNCK</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0094180-1338</td><td>PMEG.643282@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>LUIZ SCHUNCK</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>AVENIDA LUZA AUGUSTO CORREA, 001300 - RUA</td><td>CIPO</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-1014 / (011) 0004663-2853</td><td>E917084A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>MADALENA BRANCA DOS SANTOS ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA DAS GOIABEIRAS, 000300 - RUA</td><td>VAL FLOR</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-7037</td><td>PMEG.075152@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>MARIA ANDRE SCHUNCK DONA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA JOSE NOGUEIRA, 000022 - RUA</td><td>CIPO GUACU</td><td>06900    </td><td>Urbana</td><td>(011) 0004663-1202 / (011) 0004663-4026</td><td>E010273A@EDUCAAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>MARIA DOMINGUES DA SILVA ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA DOS CICLAMES COM A ESTRADA DA TIA ZULMIRA, 000048 - RUA</td><td>RECANTO DA LAGOA GRANDE</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-6959</td><td>PMEG.659800@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>MARIO FRANCISCO DE AMORIM</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA SOLDADO PACIFICO CARVALHO MACHADO, 000050</td><td>CHACARA FLORIDA</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2614 / (011) 0004661-8836</td><td>E904181A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>MOVIMENTO RENOVADOR PAULO VI LAR IRMA INES</td><td>PRIVADA - FILANTR&#211;PICA</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA PRINCESA ISABEL, 000100 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-1294 / (011) 0004661-6134</td><td>MOVIMENTORENOVADOR@MOVIMENTORENOVADOR.ORG.BR</td>
+		</tr><tr>
+			<td>NEIDE CELESTINA DE OLIVEIRA PROFA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RSEBASTIAO PDE ANDRADE, 000091 - RUA</td><td>R LAGOA GRANDE</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2560 / (011) 0004661-8491</td><td>E918817A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>NOGUEIRA E SONHO DE CRIANCA COLEGIO</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA CLOTILDE LOURO, 000074 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-3974</td><td>CONTATO@COLEGIONOGUEIRA.COM.BR</td>
+		</tr><tr>
+			<td>OLIVIA DE FARIA NOGUEIRA</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>ROD JOSE SIMOES LOURO JR, 000046 - RUA</td><td>SANTA ISABEL</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-2619 / (011) 0004661-8490</td><td>E044878A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>PASCHOAL CARLOS MAGNO</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>AV CEL LUIZ TENORIO BRITO, 001000 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-1810 / (011) 0004661-8475</td><td>E010285A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>PEDRO VILLAS BOAS DE SOUZA DOM</td><td>EE (ESCOLA ESTADUAL)</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>ESTADUAL-SE         </td><td>RUA JOAO RIBEIRO CRAVO ROXO, 00S/N&#186; - RUA</td><td>JARDIM CAMPESTRE</td><td>06900    </td><td>Urbana</td><td>(011) 0004661-1926 / (011) 0004661-8470</td><td>E046541A@EDUCACAO.SP.GOV.BR</td>
+		</tr><tr>
+			<td>RAFAEL CAU PREFEITO ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>ROD JOSE SIMOES LOURO JUNIOR, 0000SN - KM 39</td><td>SANTA ISABEL</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004661-2327</td><td>PMEG.465689@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>RAISA CASOY ESCOLA MUNICIPAL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>MUNICIPAL           </td><td>RUA DEOCLECIANO DOS SANTOS, 000114 - RUA</td><td>CHACARA AVAI</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004663-1074</td><td>PMEG.075176@EMBUGUACU.SP.GOV.BR</td>
+		</tr><tr>
+			<td>RECANTO BETANIA CENTRO EDUCACIONAL</td><td>PRIVADA - FILANTR&#211;PICA</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RODOVIA JOSE SIMOES LOURO JUNIOR, 003470 - RUA</td><td>ITARARE</td><td>06900    </td><td>Rural</td><td>(011) 0000000-0000 / (011) 0004661-3028</td><td>CERB@RECANTOBETANIA.COM.BR</td>
+		</tr><tr>
+			<td>TIA LIGIA ESCOLA DE EDUCACAO INFANTIL</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA PRUDENTE DE MORAES, 000167 - RUA</td><td>CENTRO</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0094725-7901</td><td>ESCOLATIALIGIA@HOTMAIL.COM</td>
+		</tr><tr>
+			<td>UNIAO ESCOLA DE ENSINO BASICO</td><td>OUTRAS</td><td>EMBU-GUACU</td><td>ITAPECERICA DA SERRA</td><td>PARTICULAR          </td><td>RUA FRANCISCO VOLANTE, 000184 - RUA</td><td>JARDIM BRASIL</td><td>06900    </td><td>Urbana</td><td>(011) 0000000-0000 / (011) 0004230-4546</td><td>ATENDIMENTOUNIAOESCOLA@UOL.COM.BR</td>
+		</tr>
+	</table>
+</div>
